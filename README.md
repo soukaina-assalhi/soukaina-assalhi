@@ -23,6 +23,9 @@
 - 📂 Bureau de stagiaire (HTML, CSS, JS) : Application web simple pour la gestion des stagiaires
 
 > D'autres projets à venir...
+---
+
+
 
 ## 🎯 Objectif Actuel
 
